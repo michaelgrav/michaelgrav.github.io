@@ -11,5 +11,6 @@ labels:
   - PyCharm
   - GitHub
   - libtcod
-summary:This is a simple Roguelike game written with libtcod in python.
+summary: This is a simple Roguelike game written with libtcod in python.
+projecturl: https://github.com/michaelgrav/PythonRoguelike
 ---
