@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/openchatapp.jpg
 title: OpenChatApp
-permalink: [projects/openchatapp](https://github.com/michaelgrav/OpenChatApp)
+permalink: projects/openchatapp
 # All dates must be YYYY-MM-DD format!
-date: 2022-present
+date: 2022-03-05
 labels:
   - Android Studio
   - Firebase
