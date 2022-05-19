@@ -86,18 +86,6 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
       "company": "Cinemark",
       "position": "Server",
       "website": "",
@@ -121,6 +109,38 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Visa x Codepath Internship Prep WorkshopVisa",
+      "website": "https://info.codepath.org/visa-internship-prep-workshop",
+      "position": "Volunteer Proofreader",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-16",
+      "summary": "In 12-weeks, I will gain a preview of real-world software topics and be prepared to solve challenging algorithmic problems in whiteboard and coding interviews. Over the course of the summer, I will attend lectures, labs, and info sessions, plus receive feedback on my resume."
+    },
+    {
+      "organization": "Capital One’s First Gen-Focus Program",
+      "website": "https://ah.utdallas.edu/programs/undergraduate-degrees/visual-and-performing-arts/music/music-ensembles/pepband/",
+      "position": "Participant (Euphonium)",
+      "startDate": "2021-08-21",
+      "endDate": "Present",
+      "summary": ""
+    },
+    {
+      "organization": "UT Dallas Pep Band",
+      "website": "",
+      "position": "Participant/Mentee",
+      "startDate": "2022-01-10",
+      "endDate": "Present",
+      "summary": "The Capital One First-Gen Focus program supports and helps 1st year first-generation college students create pathways for a sustainable financial future through free resources revolving around three core program pillars: Financial Well-Being, Personal Wellness, and Career Readiness & Persistence"
+    },
+    {
+      "organization": "ACM Mentee",
+      "website": "",
+      "position": "Mentee",
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-10",
+      "summary": "The ACM Mentor/Mentee program paired me with a mentor where I learned about contributing to the ACM's "Project Nebula" codebase and tips for succeeding in college over the spring 2022 semester."
+    },
     {
       "organization": "Project Gutenberg",
       "website": "https://www.gutenberg.org/",
