@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/openchatapp.jpg
 title: OpenChatApp
-permalink: projects/openchatapp
+permalink: [projects/openchatapp](https://github.com/michaelgrav/OpenChatApp)
 # All dates must be YYYY-MM-DD format!
 date: 2022-present
 labels:
@@ -11,7 +11,6 @@ labels:
   - Firebase
   - Java
 summary: Developed an open source Android App made for users to chat with each other.
-projecturl: https://github.com/michaelgrav/OpenChatApp
 ---
 
 <div class="ui small rounded images">
