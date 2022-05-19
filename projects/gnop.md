@@ -7,10 +7,10 @@ permalink: projects/gnop
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-07
 labels:
-  - Python
-  - PyCharm
+  - Unity
+  - C#
   - GitHub
-  - libtcod
+  - Photoshop
 summary: A modern recreation of pong in Unity. Made by Michael Graves, Benjamin Guzman, and Ryan Gualding.
 projecturl: https://github.com/BigDaddyBlue42/GNOP
 ---

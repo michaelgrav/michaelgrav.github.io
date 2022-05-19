@@ -10,6 +10,7 @@ labels:
   - Android Studio
   - Firebase
   - Java
+  - Github
 summary: Developed an open source Android App made for users to chat with each other.
 projecturl: https://github.com/michaelgrav/OpenChatApp
 ---
