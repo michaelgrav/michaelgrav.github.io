@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tree.jpg
-title: Tree
+title: tree
 permalink: projects/tree
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-13

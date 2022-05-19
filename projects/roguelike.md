@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/roguelike.jpg
-title: Roguelike
+title: roguelike
 permalink: projects/roguelike
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-14

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/openchatapp.jpg
-title: OpenChatApp
+title: openchatapp
 permalink: projects/openchatapp
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-05
