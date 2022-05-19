@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "virtural reality",
+      "name": "Virtural Reality",
       "keywords": [
         "Oculus",
         "Augmented Reality"
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "embedded systems",
+      "name": "Embedded Systems",
       "keywords": [
       ]
     }
@@ -78,6 +78,9 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
+        "C/C++ Programming in a UNIX Environment",
+        "Computer Architecture",
+        "Computer Science II (Java)"
       ]
     }
   ],
@@ -95,57 +98,50 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Cinemark",
+      "position": "Server",
+      "website": "",
+      "startDate": "2021-06-16",
+      "endDate": "2021-08-15",
+      "summary": "Guided Guests in ordering food products and beverages.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Needed to have strong menu knowledge",
+        "Delivered quick and timely customer service"
+      ]
+    },
+    {
+      "company": "Wholesale Haulers",
+      "position": "File Clerk",
+      "website": "",
+      "startDate": "2018-06-01",
+      "endDate": "2021-06-15",
+      "summary": "Filed away papers and answered the company phone.",
+      "highlights": [
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Project Gutenberg",
+      "website": "https://www.gutenberg.org/",
+      "position": "Volunteer Proofreader",
+      "startDate": "2021-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "summary": "Transcribing and proofreading pages from books to be released to the public domain."
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Haraldson Foundation Scholarship",
+      "date": "Jan 2021",
+      "awarder": "The Haraldson Foundation",
+      "summary": "A prestigious scholarship given to students who graduate within the Top 10% of their graduation class, hold High SAT or ACT scores, demonstrate exceptional character and leadership, and participate in community service within their community."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2021-2022",
+      "awarder": "University of Texas at Dallas",
+      "summary": "https://www.utdallas.edu/current/deans-list/fall-2021/#ecs"
     }
   ],
   "references": [
