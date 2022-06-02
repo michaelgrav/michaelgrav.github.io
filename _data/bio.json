@@ -64,8 +64,11 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Arch",
-        "Git/GitHub"
+        "Linux",
+        "Git/GitHub",
+        "Postman",
+        "VS Code, IntelliJ/CLion",
+        "Netlify/Github Pages"
       ]
     }
   ],
@@ -85,6 +88,21 @@
     }
   ],
   "work": [
+    {
+      "company": "UT Dallas OIT",
+      "position": "Student Engineer - Cloud Services",
+      "website": "https://oit.utdallas.edu/",
+      "startDate": "2022-06-16",
+      "endDate": "",
+      "summary": "Worked as a developer for the OIT at UT Dallas",
+      "highlights": [
+        "Assisted with administrating the AWS environment; including analyzing billing data.",
+        "Developed, troubleshooted, modified and documented scripts needed to maintain the AWS environment.",
+        "Worked with other engineers to develop processes for deploying cloud resources.",
+        "Utilized programming skills with languages such as Python, Node.js, and PowerShell.",
+        "Assisted in developing Alexa skills."
+      ]
+    },
     {
       "company": "Cinemark",
       "position": "Server",
