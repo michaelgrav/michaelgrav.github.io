@@ -90,39 +90,17 @@
   "work": [
     {
       "company": "UT Dallas OIT",
-      "position": "Student Engineer - Cloud Services",
+      "position": "Cloud/DevOps Engineer",
       "website": "https://oit.utdallas.edu/",
       "startDate": "2022-06-16",
       "endDate": "Present",
       "summary": "Worked as a developer for the OIT at UT Dallas",
       "highlights": [
-        "Assisted with administrating the AWS environment; including analyzing billing data.",
-        "Developed, troubleshooted, modified and documented scripts needed to maintain the AWS environment.",
-        "Worked with other engineers to develop processes for deploying cloud resources.",
-        "Utilized programming skills with languages such as Python, Node.js, and PowerShell.",
-        "Assisted in developing Alexa skills."
-      ]
-    },
-    {
-      "company": "Cinemark",
-      "position": "Server",
-      "website": "",
-      "startDate": "2021-06-16",
-      "endDate": "2021-08-15",
-      "summary": "Guided Guests in ordering food products and beverages.",
-      "highlights": [
-        "Needed to have strong menu knowledge",
-        "Delivered quick and timely customer service"
-      ]
-    },
-    {
-      "company": "Wholesale Haulers",
-      "position": "File Clerk",
-      "website": "",
-      "startDate": "2018-06-01",
-      "endDate": "2021-06-15",
-      "summary": "Filed away papers and answered the company phone.",
-      "highlights": [
+        "Assisted with administrating the school’s AWS environment by developing and documenting Python and Powershell scripts for billing, maintenance, and managing user access management.",
+        "Worked with senior engineers to develop processes and templates for deploying cloud resources to EC2 instances with AWS Cloud Formation in an agile and scrum based environment.",
+        "Programmed with Python, Node.js, PowerShell, and YAML, as well as assisted with moving on-premise disaster recovery database and application servers to the cloud.",
+        "Created containers in AWS Elastic Container Service using Docker, Rancher, and Kubernetes in order to assist fellow developers in transitioning to containerization based application development.",
+        "Created and curated data based charts and spreadsheets that were easily consumable to present to senior executives for workload progress and success."
       ]
     }
   ],
