@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/covidtracker.jpg
-title: COVID-19 Tracker
+title: COVID19-Tracker
 permalink: projects/covidtracker
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-01
