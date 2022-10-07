@@ -29,19 +29,14 @@
   },
   "interests": [
     {
-      "name": "Virtural Reality",
-      "keywords": [
-        "Oculus",
-        "Augmented Reality"
-      ]
-    },
-    {
       "name": "Software Engineering",
       "keywords": [
+        "AWS",
+        "Cloud Computing"
       ]
     },
     {
-      "name": "Embedded Systems",
+      "name": "Backend Development",
       "keywords": [
       ]
     }
@@ -54,9 +49,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "MIPS",
-        "LUA"
+        "Javascript"
       ]
     },
     {
@@ -99,7 +92,7 @@
       "highlights": [
         "Assisted with administrating the school’s AWS environment by developing and documenting Python and Powershell scripts for billing, maintenance, and managing user access management.",
         "Worked with senior engineers to develop processes and templates for deploying cloud resources to EC2 instances with AWS Cloud Formation in an agile and scrum based environment.",
-        "Programmed with Python, Node.js, PowerShell, and YAML, as well as assisted with moving on-premise disaster recovery database and application servers to the cloud.",
+        "rogrammed with Python, Node.js, PowerShell, and YAML, as well as assisted with moving and cataloging over 150 on-premise disaster recovery database and application servers to the cloud.",
         "Created containers in AWS Elastic Container Service using Docker, Rancher, and Kubernetes in order to assist fellow developers in transitioning to containerization based application development.",
         "Created and curated data based charts and spreadsheets that were easily consumable to present to senior executives for workload progress and success."
       ]
@@ -111,7 +104,7 @@
       "website": "https://info.codepath.org/visa-internship-prep-workshop",
       "position": "Participant",
       "startDate": "2022-05-31",
-      "endDate": "Present",
+      "endDate": "2022-08-12",
       "summary": "In 12-weeks, I will gain a preview of real-world software topics and be prepared to solve challenging algorithmic problems in whiteboard and coding interviews. Over the course of the summer, I will attend lectures, labs, and info sessions, plus receive feedback on my resume."
     },
     {
