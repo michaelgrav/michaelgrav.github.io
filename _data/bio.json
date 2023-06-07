@@ -6,7 +6,7 @@
     "email": "mgrav621@gmail.com",
     "phone": "",
     "website": "https://michaelgrav.github.io",
-    "summary": "I am an undergraduate student studying Computer Science at The University of Texas at Dallas",
+    "summary": "I am an gradaute and undergraduate student studying Computer Science at The University of Texas at Dallas",
     "location": {
       "address": "",
       "postalCode": "77433",
@@ -68,6 +68,16 @@
   "education": [
     {
       "institution": "University of Texas at Dallas",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "M.S.",
+      "startDate": "2023-06",
+      "endDate": "Present",
+      "gpa": "N/A",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Texas at Dallas",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2021-08",
@@ -83,11 +93,21 @@
   ],
   "work": [
     {
+      "company": "Toyota Connected",
+      "position": "Software Engineer Intern",
+      "website": "https://www.toyotaconnected.com/",
+      "startDate": "2023-05-30",
+      "endDate": "Present",
+      "summary": "Worked as a software engineer intern for Toyota Connected NA",
+      "highlights": [
+      ]
+    },
+    {
       "company": "UT Dallas OIT",
       "position": "Student Software Engineer - Cloud",
       "website": "https://oit.utdallas.edu/",
-      "startDate": "2022-06-16",
-      "endDate": "Present",
+      "startDate": "2022-05-24",
+      "endDate": "2023-05-15",
       "summary": "Worked as a developer for the OIT at UT Dallas",
       "highlights": [
         "Assisted with administrating the school’s AWS environment by developing and documenting Python and Powershell scripts for billing, maintenance, and managing user access management.",
