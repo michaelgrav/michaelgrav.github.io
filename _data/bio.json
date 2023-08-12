@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "https://michaelgrav.github.io/images/linkedinprofile.jpeg",
     "email": "mgrav621@gmail.com",
-    "phone": "",
+    "phone": "2819069506",
     "website": "https://michaelgrav.github.io",
-    "summary": "I am an gradaute and undergraduate student studying Computer Science at The University of Texas at Dallas",
+    "summary": "I am an gradaute/undergraduate student studying Computer Science at The University of Texas at Dallas",
     "location": {
       "address": "",
       "postalCode": "77433",
@@ -100,6 +100,13 @@
       "endDate": "Present",
       "summary": "Worked as a software engineer intern for Toyota Connected NA",
       "highlights": [
+      "Designed highly scalable infrastructure and code used to process real time data from thousands of vehicles every minute with the use of Java, AWS Kinesis Streams, Apache Flink, DynamoDB, Lambda functions, and Kubeflow pipelines",
+      "Utilized Datadog to monitor the health of newly created and existing infrastructure",
+      "Designed dashboards to visualize metrics received from existing infrastructure with Python and generated new metrics in the code base such as the message delay time between data points with Java",
+      "Rearchtected existing monolithic applications into microservices by breaking them into smaller AWS Lambda functions that could scale better horizontally",
+      "Improved the security of existing API calls by adding HTTPS and API authentication tokens",
+      "Improved the existing Gitlab CI/CD pipeline by automating the deployment of Terraform code and Docker containers to AWS accounts with Helm and Kaniko",
+      "Maintained documentation and a record of story progress with Jira tickets and documentation in Confluence"
       ]
     },
     {
